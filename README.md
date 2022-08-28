@@ -30,5 +30,3 @@ https://member87.uk
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=member87&count_private=true&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=member87)
