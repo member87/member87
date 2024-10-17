@@ -9,5 +9,5 @@
 </span>
 
 <span>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=member87&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true&exclude_repo=gmodcheat,dotfiles" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=member87&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true&exclude_repo=gmodcheat,dotfiles,portfolio" />
 </span>
